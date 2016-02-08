@@ -7,6 +7,11 @@
       "atomic-emacs"
       "linter"
       "color-picker"
+      "vim-mode"
+      "vim-mode-plus"
+    ]
+    packagesWithKeymapsDisabled: [
+      "block-travel"
     ]
     themes: [
       "one-dark-ui"
