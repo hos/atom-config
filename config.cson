@@ -1,0 +1,43 @@
+"*":
+  "atom-terminal": {}
+  "autocomplete-plus": {}
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "atomic-emacs"
+      "linter"
+      "color-picker"
+    ]
+    themes: [
+      "one-dark-ui"
+      "an-old-hope-syntax"
+    ]
+  editor:
+    fontFamily: "Consolas "
+    fontSize: 15
+    invisibles: {}
+    lineHeight: 1.3
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+    tabType: "soft"
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  latextools:
+    builderSettings: {}
+    darwin: {}
+    linux: {}
+    win32: {}
+  linter: {}
+  minimap:
+    scrollAnimation: true
+  nuclide:
+    remoteProjectsConfig: []
+  "one-dark-ui":
+    layoutMode: "Compact"
+  "one-light-ui": {}
+  term2: {}
+  "vim-mode":
+    useClipboardAsDefaultRegister: true
+  welcome:
+    showOnStartup: false
